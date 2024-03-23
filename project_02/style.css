@@ -17,7 +17,7 @@
     position: relative;
     width: 300px;
     height: 300px;
-    margin: 0 -7.5px;
+    margin: 0 -15px;
 }
 
 span{
@@ -34,16 +34,16 @@ span::before{
     position: absolute;
     right: 0;
     top: calc(50% - 7.5px);
-    height: 15px;
-    width: 15px;
-    background: #00ff0a;
+    height: 30px;
+    width: 30px;
+    background: #fd04c7;
     border-radius: 50%;
-    box-shadow: 0px 0px 10px #00ff0a,
-    0px 0px 20px #00ff0a,
-    0px 0px 40px #00ff0a,
-    0px 0px 70px #00ff0a,
-    0px 0px 80px #00ff0a,
-    0px 0px 100px #00ff0a;
+    box-shadow: 0px 0px 10px #fd04c7,
+    0px 0px 20px #fd04c7,
+    0px 0px 40px #fd04c7,
+    0px 0px 70px #fd04c7,
+    0px 0px 80px #fd04c7,
+    0px 0px 100px #fd04c7;
     transform: scale(0.1);
     animation: myanim 4s linear infinite;
     animation-delay: calc(.1s * var(--i));
