@@ -10,6 +10,6 @@ Projects using HTML and CSS :
 ![giphy](https://github.com/gokul894/Projects_with_HTML_CSS/assets/163384108/564ef400-1ef1-4e71-8808-d207ce9841ad)
 
 
-# project_01:
+# project_02:
 ### there are some awesome infinite path glowing effect
 ![ui_01](https://github.com/gokul894/Projects_with_HTML_CSS/assets/163384108/d52d8d41-9ec2-48dd-b735-c145f9f36604)
